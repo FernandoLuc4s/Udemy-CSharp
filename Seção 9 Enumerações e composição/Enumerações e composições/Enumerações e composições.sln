@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercresolvidoEnumeracoesEComposicao", "ExercresolvidoEnumeracoesEComposicao\ExercresolvidoEnumeracoesEComposicao.csproj", "{36B19D90-9E23-46B6-A56D-4A3BA3F47AB4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeração", "Enumeração\Enumeração.csproj", "{46E08999-6AD9-487F-B7CB-BCCCD2288215}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercResolvido01", "ExercResolvido01\ExercResolvido01.csproj", "{2E0F6D1E-7311-4CA0-92F1-3D89F3EB365C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioResolvido2", "ExercicioResolvido2\ExercicioResolvido2.csproj", "{B0EE19D7-265A-4871-AF7C-FC120DDEE113}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioResolvido2", "ExercicioResolvido2\ExercicioResolvido2.csproj", "{B0EE19D7-265A-4871-AF7C-FC120DDEE113}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{36B19D90-9E23-46B6-A56D-4A3BA3F47AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{36B19D90-9E23-46B6-A56D-4A3BA3F47AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{36B19D90-9E23-46B6-A56D-4A3BA3F47AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{36B19D90-9E23-46B6-A56D-4A3BA3F47AB4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{46E08999-6AD9-487F-B7CB-BCCCD2288215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{46E08999-6AD9-487F-B7CB-BCCCD2288215}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46E08999-6AD9-487F-B7CB-BCCCD2288215}.Release|Any CPU.ActiveCfg = Release|Any CPU
