@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\bin\Debug\net5.0\TiposReferenciasETiposValor.exe
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\bin\Debug\net5.0\TiposReferenciasETiposValor.deps.json
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\bin\Debug\net5.0\TiposReferenciasETiposValor.runtimeconfig.json
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\bin\Debug\net5.0\TiposReferenciasETiposValor.runtimeconfig.dev.json
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\bin\Debug\net5.0\TiposReferenciasETiposValor.dll
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\bin\Debug\net5.0\ref\TiposReferenciasETiposValor.dll
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\bin\Debug\net5.0\TiposReferenciasETiposValor.pdb
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\obj\Debug\net5.0\TiposReferenciasETiposValor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\obj\Debug\net5.0\TiposReferenciasETiposValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\obj\Debug\net5.0\TiposReferenciasETiposValor.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\obj\Debug\net5.0\TiposReferenciasETiposValor.AssemblyInfo.cs
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\obj\Debug\net5.0\TiposReferenciasETiposValor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\obj\Debug\net5.0\TiposReferenciasETiposValor.dll
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\obj\Debug\net5.0\ref\TiposReferenciasETiposValor.dll
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\obj\Debug\net5.0\TiposReferenciasETiposValor.pdb
+C:\Users\User\source\repos\Seção 6\TiposReferenciasETiposValor\obj\Debug\net5.0\TiposReferenciasETiposValor.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\bin\Debug\net5.0\ModificadorDeParamentrosParms.exe
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\bin\Debug\net5.0\ModificadorDeParamentrosParms.deps.json
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\bin\Debug\net5.0\ModificadorDeParamentrosParms.runtimeconfig.json
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\bin\Debug\net5.0\ModificadorDeParamentrosParms.runtimeconfig.dev.json
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\bin\Debug\net5.0\ModificadorDeParamentrosParms.dll
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\bin\Debug\net5.0\ref\ModificadorDeParamentrosParms.dll
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\bin\Debug\net5.0\ModificadorDeParamentrosParms.pdb
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\obj\Debug\net5.0\ModificadorDeParamentrosParms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\obj\Debug\net5.0\ModificadorDeParamentrosParms.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\obj\Debug\net5.0\ModificadorDeParamentrosParms.AssemblyInfo.cs
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\obj\Debug\net5.0\ModificadorDeParamentrosParms.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\obj\Debug\net5.0\ModificadorDeParamentrosParms.dll
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\obj\Debug\net5.0\ref\ModificadorDeParamentrosParms.dll
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\obj\Debug\net5.0\ModificadorDeParamentrosParms.pdb
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosParms\obj\Debug\net5.0\ModificadorDeParamentrosParms.genruntimeconfig.cache

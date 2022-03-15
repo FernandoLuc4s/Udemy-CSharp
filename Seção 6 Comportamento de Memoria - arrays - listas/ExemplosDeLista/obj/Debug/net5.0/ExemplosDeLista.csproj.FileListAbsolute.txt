@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\bin\Debug\net5.0\ExemplosDeLista.exe
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\bin\Debug\net5.0\ExemplosDeLista.deps.json
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\bin\Debug\net5.0\ExemplosDeLista.runtimeconfig.json
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\bin\Debug\net5.0\ExemplosDeLista.runtimeconfig.dev.json
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\bin\Debug\net5.0\ExemplosDeLista.dll
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\bin\Debug\net5.0\ref\ExemplosDeLista.dll
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\bin\Debug\net5.0\ExemplosDeLista.pdb
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\obj\Debug\net5.0\ExemplosDeLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\obj\Debug\net5.0\ExemplosDeLista.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\obj\Debug\net5.0\ExemplosDeLista.AssemblyInfo.cs
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\obj\Debug\net5.0\ExemplosDeLista.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\obj\Debug\net5.0\ExemplosDeLista.dll
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\obj\Debug\net5.0\ref\ExemplosDeLista.dll
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\obj\Debug\net5.0\ExemplosDeLista.pdb
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\obj\Debug\net5.0\ExemplosDeLista.genruntimeconfig.cache
+C:\Users\User\source\repos\Seção 6\ExemplosDeLista\obj\Debug\net5.0\ExemplosDeLista.csprojAssemblyReference.cache

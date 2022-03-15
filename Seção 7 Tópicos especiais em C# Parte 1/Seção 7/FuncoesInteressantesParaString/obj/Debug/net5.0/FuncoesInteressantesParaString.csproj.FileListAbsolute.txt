@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\bin\Debug\net5.0\FuncoesInteressantesParaString.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\bin\Debug\net5.0\FuncoesInteressantesParaString.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\bin\Debug\net5.0\FuncoesInteressantesParaString.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\bin\Debug\net5.0\FuncoesInteressantesParaString.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\bin\Debug\net5.0\FuncoesInteressantesParaString.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\bin\Debug\net5.0\ref\FuncoesInteressantesParaString.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\bin\Debug\net5.0\FuncoesInteressantesParaString.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\obj\Debug\net5.0\FuncoesInteressantesParaString.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\obj\Debug\net5.0\FuncoesInteressantesParaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\obj\Debug\net5.0\FuncoesInteressantesParaString.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\obj\Debug\net5.0\FuncoesInteressantesParaString.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\obj\Debug\net5.0\FuncoesInteressantesParaString.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\obj\Debug\net5.0\FuncoesInteressantesParaString.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\obj\Debug\net5.0\ref\FuncoesInteressantesParaString.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\obj\Debug\net5.0\FuncoesInteressantesParaString.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\FuncoesInteressantesParaString\obj\Debug\net5.0\FuncoesInteressantesParaString.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Seção 6\ExercMatriz\bin\Debug\net5.0\ExercMatriz.exe
+C:\Users\User\source\repos\Seção 6\ExercMatriz\bin\Debug\net5.0\ExercMatriz.deps.json
+C:\Users\User\source\repos\Seção 6\ExercMatriz\bin\Debug\net5.0\ExercMatriz.runtimeconfig.json
+C:\Users\User\source\repos\Seção 6\ExercMatriz\bin\Debug\net5.0\ExercMatriz.runtimeconfig.dev.json
+C:\Users\User\source\repos\Seção 6\ExercMatriz\bin\Debug\net5.0\ExercMatriz.dll
+C:\Users\User\source\repos\Seção 6\ExercMatriz\bin\Debug\net5.0\ref\ExercMatriz.dll
+C:\Users\User\source\repos\Seção 6\ExercMatriz\bin\Debug\net5.0\ExercMatriz.pdb
+C:\Users\User\source\repos\Seção 6\ExercMatriz\obj\Debug\net5.0\ExercMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Seção 6\ExercMatriz\obj\Debug\net5.0\ExercMatriz.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Seção 6\ExercMatriz\obj\Debug\net5.0\ExercMatriz.AssemblyInfo.cs
+C:\Users\User\source\repos\Seção 6\ExercMatriz\obj\Debug\net5.0\ExercMatriz.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seção 6\ExercMatriz\obj\Debug\net5.0\ExercMatriz.dll
+C:\Users\User\source\repos\Seção 6\ExercMatriz\obj\Debug\net5.0\ref\ExercMatriz.dll
+C:\Users\User\source\repos\Seção 6\ExercMatriz\obj\Debug\net5.0\ExercMatriz.pdb
+C:\Users\User\source\repos\Seção 6\ExercMatriz\obj\Debug\net5.0\ExercMatriz.genruntimeconfig.cache
+C:\Users\User\source\repos\Seção 6\ExercMatriz\obj\Debug\net5.0\ExercMatriz.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\bin\Debug\net5.0\SintaxeAlternativaSwitchCase.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\bin\Debug\net5.0\SintaxeAlternativaSwitchCase.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\bin\Debug\net5.0\SintaxeAlternativaSwitchCase.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\bin\Debug\net5.0\SintaxeAlternativaSwitchCase.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\bin\Debug\net5.0\SintaxeAlternativaSwitchCase.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\bin\Debug\net5.0\ref\SintaxeAlternativaSwitchCase.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\bin\Debug\net5.0\SintaxeAlternativaSwitchCase.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\obj\Debug\net5.0\SintaxeAlternativaSwitchCase.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\obj\Debug\net5.0\SintaxeAlternativaSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\obj\Debug\net5.0\SintaxeAlternativaSwitchCase.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\obj\Debug\net5.0\SintaxeAlternativaSwitchCase.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\obj\Debug\net5.0\SintaxeAlternativaSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\obj\Debug\net5.0\SintaxeAlternativaSwitchCase.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\obj\Debug\net5.0\ref\SintaxeAlternativaSwitchCase.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\obj\Debug\net5.0\SintaxeAlternativaSwitchCase.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\SintaxeAlternativaSwitchCase\obj\Debug\net5.0\SintaxeAlternativaSwitchCase.genruntimeconfig.cache

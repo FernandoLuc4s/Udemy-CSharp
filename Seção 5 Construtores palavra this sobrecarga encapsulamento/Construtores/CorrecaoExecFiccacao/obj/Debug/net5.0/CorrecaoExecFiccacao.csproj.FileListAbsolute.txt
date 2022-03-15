@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\bin\Debug\net5.0\CorrecaoExecFiccacao.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\bin\Debug\net5.0\CorrecaoExecFiccacao.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\bin\Debug\net5.0\CorrecaoExecFiccacao.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\bin\Debug\net5.0\CorrecaoExecFiccacao.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\bin\Debug\net5.0\CorrecaoExecFiccacao.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\bin\Debug\net5.0\ref\CorrecaoExecFiccacao.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\bin\Debug\net5.0\CorrecaoExecFiccacao.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\obj\Debug\net5.0\CorrecaoExecFiccacao.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\obj\Debug\net5.0\CorrecaoExecFiccacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\obj\Debug\net5.0\CorrecaoExecFiccacao.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\obj\Debug\net5.0\CorrecaoExecFiccacao.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\obj\Debug\net5.0\CorrecaoExecFiccacao.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\obj\Debug\net5.0\CorrecaoExecFiccacao.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\obj\Debug\net5.0\ref\CorrecaoExecFiccacao.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\obj\Debug\net5.0\CorrecaoExecFiccacao.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\CorrecaoExecFiccacao\obj\Debug\net5.0\CorrecaoExecFiccacao.genruntimeconfig.cache

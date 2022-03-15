@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\bin\Debug\net5.0\Enumerações.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\bin\Debug\net5.0\Enumerações.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\bin\Debug\net5.0\Enumerações.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\bin\Debug\net5.0\Enumerações.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\bin\Debug\net5.0\Enumerações.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\bin\Debug\net5.0\ref\Enumerações.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\bin\Debug\net5.0\Enumerações.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\obj\Debug\net5.0\Enumerações.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\obj\Debug\net5.0\Enumerações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\obj\Debug\net5.0\Enumerações.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\obj\Debug\net5.0\Enumerações.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\obj\Debug\net5.0\Enumerações.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\obj\Debug\net5.0\Enumerações.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\obj\Debug\net5.0\ref\Enumerações.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\obj\Debug\net5.0\Enumerações.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\Enumerações\obj\Debug\net5.0\Enumerações.genruntimeconfig.cache

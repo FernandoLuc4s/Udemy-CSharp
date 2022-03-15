@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\bin\Debug\net5.0\DateTimeKindEPadrãoISO8601.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\bin\Debug\net5.0\DateTimeKindEPadrãoISO8601.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\bin\Debug\net5.0\DateTimeKindEPadrãoISO8601.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\bin\Debug\net5.0\DateTimeKindEPadrãoISO8601.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\bin\Debug\net5.0\DateTimeKindEPadrãoISO8601.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\bin\Debug\net5.0\ref\DateTimeKindEPadrãoISO8601.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\bin\Debug\net5.0\DateTimeKindEPadrãoISO8601.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\obj\Debug\net5.0\DateTimeKindEPadrãoISO8601.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\obj\Debug\net5.0\DateTimeKindEPadrãoISO8601.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\obj\Debug\net5.0\DateTimeKindEPadrãoISO8601.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\obj\Debug\net5.0\DateTimeKindEPadrãoISO8601.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\obj\Debug\net5.0\DateTimeKindEPadrãoISO8601.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\obj\Debug\net5.0\ref\DateTimeKindEPadrãoISO8601.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\obj\Debug\net5.0\DateTimeKindEPadrãoISO8601.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTimeKindEPadrãoISO8601\obj\Debug\net5.0\DateTimeKindEPadrãoISO8601.genruntimeconfig.cache

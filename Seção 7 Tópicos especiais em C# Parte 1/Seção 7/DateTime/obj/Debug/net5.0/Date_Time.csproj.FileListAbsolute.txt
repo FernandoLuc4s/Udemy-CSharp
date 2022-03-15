@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\bin\Debug\net5.0\Date_Time.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\bin\Debug\net5.0\Date_Time.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\bin\Debug\net5.0\Date_Time.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\bin\Debug\net5.0\Date_Time.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\bin\Debug\net5.0\Date_Time.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\bin\Debug\net5.0\ref\Date_Time.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\bin\Debug\net5.0\Date_Time.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\obj\Debug\net5.0\Date_Time.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\obj\Debug\net5.0\Date_Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\obj\Debug\net5.0\Date_Time.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\obj\Debug\net5.0\Date_Time.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\obj\Debug\net5.0\Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\obj\Debug\net5.0\Date_Time.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\obj\Debug\net5.0\ref\Date_Time.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\obj\Debug\net5.0\Date_Time.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\DateTime\obj\Debug\net5.0\Date_Time.genruntimeconfig.cache

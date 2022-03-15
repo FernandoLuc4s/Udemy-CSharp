@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Seção 6\VetoresDois\bin\Debug\net5.0\VetoresDois.exe
+C:\Users\User\source\repos\Seção 6\VetoresDois\bin\Debug\net5.0\VetoresDois.deps.json
+C:\Users\User\source\repos\Seção 6\VetoresDois\bin\Debug\net5.0\VetoresDois.runtimeconfig.json
+C:\Users\User\source\repos\Seção 6\VetoresDois\bin\Debug\net5.0\VetoresDois.runtimeconfig.dev.json
+C:\Users\User\source\repos\Seção 6\VetoresDois\bin\Debug\net5.0\VetoresDois.dll
+C:\Users\User\source\repos\Seção 6\VetoresDois\bin\Debug\net5.0\ref\VetoresDois.dll
+C:\Users\User\source\repos\Seção 6\VetoresDois\bin\Debug\net5.0\VetoresDois.pdb
+C:\Users\User\source\repos\Seção 6\VetoresDois\obj\Debug\net5.0\VetoresDois.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Seção 6\VetoresDois\obj\Debug\net5.0\VetoresDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Seção 6\VetoresDois\obj\Debug\net5.0\VetoresDois.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Seção 6\VetoresDois\obj\Debug\net5.0\VetoresDois.AssemblyInfo.cs
+C:\Users\User\source\repos\Seção 6\VetoresDois\obj\Debug\net5.0\VetoresDois.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seção 6\VetoresDois\obj\Debug\net5.0\VetoresDois.dll
+C:\Users\User\source\repos\Seção 6\VetoresDois\obj\Debug\net5.0\ref\VetoresDois.dll
+C:\Users\User\source\repos\Seção 6\VetoresDois\obj\Debug\net5.0\VetoresDois.pdb
+C:\Users\User\source\repos\Seção 6\VetoresDois\obj\Debug\net5.0\VetoresDois.genruntimeconfig.cache

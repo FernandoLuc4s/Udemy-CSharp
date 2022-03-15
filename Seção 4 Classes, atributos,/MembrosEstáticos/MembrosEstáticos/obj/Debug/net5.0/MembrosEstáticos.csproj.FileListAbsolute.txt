@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\bin\Debug\net5.0\MembrosEstáticos.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\bin\Debug\net5.0\MembrosEstáticos.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\bin\Debug\net5.0\MembrosEstáticos.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\bin\Debug\net5.0\MembrosEstáticos.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\bin\Debug\net5.0\MembrosEstáticos.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\bin\Debug\net5.0\ref\MembrosEstáticos.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\bin\Debug\net5.0\MembrosEstáticos.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\obj\Debug\net5.0\MembrosEstáticos.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\obj\Debug\net5.0\MembrosEstáticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\obj\Debug\net5.0\MembrosEstáticos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\obj\Debug\net5.0\MembrosEstáticos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\obj\Debug\net5.0\MembrosEstáticos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\obj\Debug\net5.0\MembrosEstáticos.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\obj\Debug\net5.0\ref\MembrosEstáticos.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\obj\Debug\net5.0\MembrosEstáticos.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 4 Classes, atributos,\MembrosEstáticos\MembrosEstáticos\obj\Debug\net5.0\MembrosEstáticos.genruntimeconfig.cache

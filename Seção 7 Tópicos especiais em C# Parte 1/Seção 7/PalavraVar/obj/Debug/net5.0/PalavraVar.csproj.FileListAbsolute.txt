@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\bin\Debug\net5.0\PalavraVar.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\bin\Debug\net5.0\PalavraVar.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\bin\Debug\net5.0\PalavraVar.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\bin\Debug\net5.0\PalavraVar.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\bin\Debug\net5.0\PalavraVar.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\bin\Debug\net5.0\ref\PalavraVar.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\bin\Debug\net5.0\PalavraVar.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\obj\Debug\net5.0\PalavraVar.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\obj\Debug\net5.0\PalavraVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\obj\Debug\net5.0\PalavraVar.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\obj\Debug\net5.0\PalavraVar.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\obj\Debug\net5.0\PalavraVar.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\obj\Debug\net5.0\PalavraVar.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\obj\Debug\net5.0\ref\PalavraVar.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\obj\Debug\net5.0\PalavraVar.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PalavraVar\obj\Debug\net5.0\PalavraVar.genruntimeconfig.cache

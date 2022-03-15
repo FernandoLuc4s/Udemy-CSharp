@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\bin\Debug\net5.0\ExercResolvidoMatriz.exe
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\bin\Debug\net5.0\ExercResolvidoMatriz.deps.json
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\bin\Debug\net5.0\ExercResolvidoMatriz.runtimeconfig.json
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\bin\Debug\net5.0\ExercResolvidoMatriz.runtimeconfig.dev.json
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\bin\Debug\net5.0\ExercResolvidoMatriz.dll
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\bin\Debug\net5.0\ref\ExercResolvidoMatriz.dll
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\bin\Debug\net5.0\ExercResolvidoMatriz.pdb
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\obj\Debug\net5.0\ExercResolvidoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\obj\Debug\net5.0\ExercResolvidoMatriz.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\obj\Debug\net5.0\ExercResolvidoMatriz.AssemblyInfo.cs
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\obj\Debug\net5.0\ExercResolvidoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\obj\Debug\net5.0\ExercResolvidoMatriz.dll
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\obj\Debug\net5.0\ref\ExercResolvidoMatriz.dll
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\obj\Debug\net5.0\ExercResolvidoMatriz.pdb
+C:\Users\User\source\repos\Seção 6\ExercResolvidoMatriz\obj\Debug\net5.0\ExercResolvidoMatriz.genruntimeconfig.cache

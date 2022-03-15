@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\bin\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\bin\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\bin\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\bin\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\bin\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\bin\Debug\net5.0\ref\PropriedadesEOperaçõesComDate_Time.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\bin\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\obj\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\obj\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\obj\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\obj\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\obj\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\obj\Debug\net5.0\ref\PropriedadesEOperaçõesComDate_Time.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\obj\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\obj\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperaçõesComDate_Time\obj\Debug\net5.0\PropriedadesEOperaçõesComDate_Time.csprojAssemblyReference.cache

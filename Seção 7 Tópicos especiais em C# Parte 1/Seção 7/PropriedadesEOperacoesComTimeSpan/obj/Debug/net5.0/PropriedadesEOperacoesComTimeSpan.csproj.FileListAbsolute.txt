@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\bin\Debug\net5.0\PropriedadesEOperacoesComTimeSpan.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\bin\Debug\net5.0\PropriedadesEOperacoesComTimeSpan.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\bin\Debug\net5.0\PropriedadesEOperacoesComTimeSpan.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\bin\Debug\net5.0\PropriedadesEOperacoesComTimeSpan.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\bin\Debug\net5.0\PropriedadesEOperacoesComTimeSpan.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\bin\Debug\net5.0\ref\PropriedadesEOperacoesComTimeSpan.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\bin\Debug\net5.0\PropriedadesEOperacoesComTimeSpan.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\obj\Debug\net5.0\PropriedadesEOperacoesComTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\obj\Debug\net5.0\PropriedadesEOperacoesComTimeSpan.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\obj\Debug\net5.0\PropriedadesEOperacoesComTimeSpan.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\obj\Debug\net5.0\PropriedadesEOperacoesComTimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\obj\Debug\net5.0\PropriedadesEOperacoesComTimeSpan.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\obj\Debug\net5.0\ref\PropriedadesEOperacoesComTimeSpan.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\obj\Debug\net5.0\PropriedadesEOperacoesComTimeSpan.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 7 Tópicos especiais em C# Parte 1\Seção 7\PropriedadesEOperacoesComTimeSpan\obj\Debug\net5.0\PropriedadesEOperacoesComTimeSpan.genruntimeconfig.cache

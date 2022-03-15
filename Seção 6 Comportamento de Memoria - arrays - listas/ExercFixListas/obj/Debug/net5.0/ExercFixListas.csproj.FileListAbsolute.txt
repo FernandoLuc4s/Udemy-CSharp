@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Seção 6\ExercFixListas\bin\Debug\net5.0\ExercFixListas.exe
+C:\Users\User\source\repos\Seção 6\ExercFixListas\bin\Debug\net5.0\ExercFixListas.deps.json
+C:\Users\User\source\repos\Seção 6\ExercFixListas\bin\Debug\net5.0\ExercFixListas.runtimeconfig.json
+C:\Users\User\source\repos\Seção 6\ExercFixListas\bin\Debug\net5.0\ExercFixListas.runtimeconfig.dev.json
+C:\Users\User\source\repos\Seção 6\ExercFixListas\bin\Debug\net5.0\ExercFixListas.dll
+C:\Users\User\source\repos\Seção 6\ExercFixListas\bin\Debug\net5.0\ref\ExercFixListas.dll
+C:\Users\User\source\repos\Seção 6\ExercFixListas\bin\Debug\net5.0\ExercFixListas.pdb
+C:\Users\User\source\repos\Seção 6\ExercFixListas\obj\Debug\net5.0\ExercFixListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Seção 6\ExercFixListas\obj\Debug\net5.0\ExercFixListas.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Seção 6\ExercFixListas\obj\Debug\net5.0\ExercFixListas.AssemblyInfo.cs
+C:\Users\User\source\repos\Seção 6\ExercFixListas\obj\Debug\net5.0\ExercFixListas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seção 6\ExercFixListas\obj\Debug\net5.0\ExercFixListas.dll
+C:\Users\User\source\repos\Seção 6\ExercFixListas\obj\Debug\net5.0\ref\ExercFixListas.dll
+C:\Users\User\source\repos\Seção 6\ExercFixListas\obj\Debug\net5.0\ExercFixListas.pdb
+C:\Users\User\source\repos\Seção 6\ExercFixListas\obj\Debug\net5.0\ExercFixListas.genruntimeconfig.cache
+C:\Users\User\source\repos\Seção 6\ExercFixListas\obj\Debug\net5.0\ExercFixListas.csprojAssemblyReference.cache

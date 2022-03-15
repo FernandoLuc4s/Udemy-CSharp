@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\bin\Debug\net5.0\ExercFixVetores.exe
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\bin\Debug\net5.0\ExercFixVetores.deps.json
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\bin\Debug\net5.0\ExercFixVetores.runtimeconfig.json
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\bin\Debug\net5.0\ExercFixVetores.runtimeconfig.dev.json
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\bin\Debug\net5.0\ExercFixVetores.dll
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\bin\Debug\net5.0\ref\ExercFixVetores.dll
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\bin\Debug\net5.0\ExercFixVetores.pdb
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\obj\Debug\net5.0\ExercFixVetores.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\obj\Debug\net5.0\ExercFixVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\obj\Debug\net5.0\ExercFixVetores.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\obj\Debug\net5.0\ExercFixVetores.AssemblyInfo.cs
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\obj\Debug\net5.0\ExercFixVetores.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\obj\Debug\net5.0\ExercFixVetores.dll
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\obj\Debug\net5.0\ref\ExercFixVetores.dll
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\obj\Debug\net5.0\ExercFixVetores.pdb
+C:\Users\User\source\repos\Seção 6\ExercFixVetores\obj\Debug\net5.0\ExercFixVetores.genruntimeconfig.cache

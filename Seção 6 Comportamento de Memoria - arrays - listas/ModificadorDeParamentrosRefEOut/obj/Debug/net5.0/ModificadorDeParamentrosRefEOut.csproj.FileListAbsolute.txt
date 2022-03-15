@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\bin\Debug\net5.0\ModificadorDeParamentrosRefEOut.exe
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\bin\Debug\net5.0\ModificadorDeParamentrosRefEOut.deps.json
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\bin\Debug\net5.0\ModificadorDeParamentrosRefEOut.runtimeconfig.json
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\bin\Debug\net5.0\ModificadorDeParamentrosRefEOut.runtimeconfig.dev.json
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\bin\Debug\net5.0\ModificadorDeParamentrosRefEOut.dll
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\bin\Debug\net5.0\ref\ModificadorDeParamentrosRefEOut.dll
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\bin\Debug\net5.0\ModificadorDeParamentrosRefEOut.pdb
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\obj\Debug\net5.0\ModificadorDeParamentrosRefEOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\obj\Debug\net5.0\ModificadorDeParamentrosRefEOut.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\obj\Debug\net5.0\ModificadorDeParamentrosRefEOut.AssemblyInfo.cs
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\obj\Debug\net5.0\ModificadorDeParamentrosRefEOut.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\obj\Debug\net5.0\ModificadorDeParamentrosRefEOut.dll
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\obj\Debug\net5.0\ref\ModificadorDeParamentrosRefEOut.dll
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\obj\Debug\net5.0\ModificadorDeParamentrosRefEOut.pdb
+C:\Users\User\source\repos\Seção 6\ModificadorDeParamentrosRefEOut\obj\Debug\net5.0\ModificadorDeParamentrosRefEOut.genruntimeconfig.cache

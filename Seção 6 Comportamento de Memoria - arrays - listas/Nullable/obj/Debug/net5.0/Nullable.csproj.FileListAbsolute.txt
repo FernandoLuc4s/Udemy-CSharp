@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Seção 6\Nullable\bin\Debug\net5.0\Nullable.exe
+C:\Users\User\source\repos\Seção 6\Nullable\bin\Debug\net5.0\Nullable.deps.json
+C:\Users\User\source\repos\Seção 6\Nullable\bin\Debug\net5.0\Nullable.runtimeconfig.json
+C:\Users\User\source\repos\Seção 6\Nullable\bin\Debug\net5.0\Nullable.runtimeconfig.dev.json
+C:\Users\User\source\repos\Seção 6\Nullable\bin\Debug\net5.0\Nullable.dll
+C:\Users\User\source\repos\Seção 6\Nullable\bin\Debug\net5.0\ref\Nullable.dll
+C:\Users\User\source\repos\Seção 6\Nullable\bin\Debug\net5.0\Nullable.pdb
+C:\Users\User\source\repos\Seção 6\Nullable\obj\Debug\net5.0\Nullable.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Seção 6\Nullable\obj\Debug\net5.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Seção 6\Nullable\obj\Debug\net5.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Seção 6\Nullable\obj\Debug\net5.0\Nullable.AssemblyInfo.cs
+C:\Users\User\source\repos\Seção 6\Nullable\obj\Debug\net5.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seção 6\Nullable\obj\Debug\net5.0\Nullable.dll
+C:\Users\User\source\repos\Seção 6\Nullable\obj\Debug\net5.0\ref\Nullable.dll
+C:\Users\User\source\repos\Seção 6\Nullable\obj\Debug\net5.0\Nullable.pdb
+C:\Users\User\source\repos\Seção 6\Nullable\obj\Debug\net5.0\Nullable.genruntimeconfig.cache

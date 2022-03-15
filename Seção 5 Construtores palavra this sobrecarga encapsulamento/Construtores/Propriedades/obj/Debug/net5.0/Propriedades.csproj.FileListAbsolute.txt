@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\bin\Debug\net5.0\Propriedades.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\bin\Debug\net5.0\Propriedades.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\bin\Debug\net5.0\Propriedades.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\bin\Debug\net5.0\Propriedades.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\bin\Debug\net5.0\Propriedades.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\bin\Debug\net5.0\ref\Propriedades.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\bin\Debug\net5.0\Propriedades.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\obj\Debug\net5.0\Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\obj\Debug\net5.0\Propriedades.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\obj\Debug\net5.0\Propriedades.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\obj\Debug\net5.0\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\obj\Debug\net5.0\Propriedades.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\obj\Debug\net5.0\ref\Propriedades.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\obj\Debug\net5.0\Propriedades.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\obj\Debug\net5.0\Propriedades.genruntimeconfig.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 5 Construtores palavra this sobrecarga encapsulamento\Construtores\Propriedades\obj\Debug\net5.0\Propriedades.csprojAssemblyReference.cache

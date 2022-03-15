@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Seção 6\Laço for each\bin\Debug\net5.0\Laço for each.exe
+C:\Users\User\source\repos\Seção 6\Laço for each\bin\Debug\net5.0\Laço for each.deps.json
+C:\Users\User\source\repos\Seção 6\Laço for each\bin\Debug\net5.0\Laço for each.runtimeconfig.json
+C:\Users\User\source\repos\Seção 6\Laço for each\bin\Debug\net5.0\Laço for each.runtimeconfig.dev.json
+C:\Users\User\source\repos\Seção 6\Laço for each\bin\Debug\net5.0\Laço for each.dll
+C:\Users\User\source\repos\Seção 6\Laço for each\bin\Debug\net5.0\ref\Laço for each.dll
+C:\Users\User\source\repos\Seção 6\Laço for each\bin\Debug\net5.0\Laço for each.pdb
+C:\Users\User\source\repos\Seção 6\Laço for each\obj\Debug\net5.0\Laço for each.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Seção 6\Laço for each\obj\Debug\net5.0\Laço for each.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Seção 6\Laço for each\obj\Debug\net5.0\Laço for each.AssemblyInfo.cs
+C:\Users\User\source\repos\Seção 6\Laço for each\obj\Debug\net5.0\Laço for each.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Seção 6\Laço for each\obj\Debug\net5.0\Laço for each.dll
+C:\Users\User\source\repos\Seção 6\Laço for each\obj\Debug\net5.0\ref\Laço for each.dll
+C:\Users\User\source\repos\Seção 6\Laço for each\obj\Debug\net5.0\Laço for each.pdb
+C:\Users\User\source\repos\Seção 6\Laço for each\obj\Debug\net5.0\Laço for each.genruntimeconfig.cache

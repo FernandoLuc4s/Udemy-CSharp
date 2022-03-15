@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\bin\Debug\net5.0\ExercResolvido01.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\bin\Debug\net5.0\ExercResolvido01.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\bin\Debug\net5.0\ExercResolvido01.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\bin\Debug\net5.0\ExercResolvido01.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\bin\Debug\net5.0\ExercResolvido01.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\bin\Debug\net5.0\ref\ExercResolvido01.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\bin\Debug\net5.0\ExercResolvido01.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\obj\Debug\net5.0\ExercResolvido01.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\obj\Debug\net5.0\ExercResolvido01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\obj\Debug\net5.0\ExercResolvido01.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\obj\Debug\net5.0\ExercResolvido01.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\obj\Debug\net5.0\ExercResolvido01.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\obj\Debug\net5.0\ExercResolvido01.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\obj\Debug\net5.0\ref\ExercResolvido01.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\obj\Debug\net5.0\ExercResolvido01.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 9 Enumerações e composição\Enumerações e composições\ExercResolvido01\obj\Debug\net5.0\ExercResolvido01.genruntimeconfig.cache
