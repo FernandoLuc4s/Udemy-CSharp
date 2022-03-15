@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\bin\Debug\net5.0\Heranca.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\bin\Debug\net5.0\Heranca.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\bin\Debug\net5.0\Heranca.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\bin\Debug\net5.0\Heranca.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\bin\Debug\net5.0\Heranca.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\bin\Debug\net5.0\ref\Heranca.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\bin\Debug\net5.0\Heranca.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\obj\Debug\net5.0\Heranca.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\obj\Debug\net5.0\Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\obj\Debug\net5.0\Heranca.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\obj\Debug\net5.0\Heranca.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\obj\Debug\net5.0\Heranca.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\obj\Debug\net5.0\Heranca.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\obj\Debug\net5.0\ref\Heranca.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\obj\Debug\net5.0\Heranca.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\Heranca\obj\Debug\net5.0\Heranca.genruntimeconfig.cache
