@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\bin\Debug\net5.0\UpcastingEDownscasting.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\bin\Debug\net5.0\UpcastingEDownscasting.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\bin\Debug\net5.0\UpcastingEDownscasting.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\bin\Debug\net5.0\UpcastingEDownscasting.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\bin\Debug\net5.0\UpcastingEDownscasting.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\bin\Debug\net5.0\ref\UpcastingEDownscasting.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\bin\Debug\net5.0\UpcastingEDownscasting.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\obj\Debug\net5.0\UpcastingEDownscasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\obj\Debug\net5.0\UpcastingEDownscasting.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\obj\Debug\net5.0\UpcastingEDownscasting.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\obj\Debug\net5.0\UpcastingEDownscasting.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\obj\Debug\net5.0\UpcastingEDownscasting.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\obj\Debug\net5.0\ref\UpcastingEDownscasting.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\obj\Debug\net5.0\UpcastingEDownscasting.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\UpcastingEDownscasting\obj\Debug\net5.0\UpcastingEDownscasting.genruntimeconfig.cache
