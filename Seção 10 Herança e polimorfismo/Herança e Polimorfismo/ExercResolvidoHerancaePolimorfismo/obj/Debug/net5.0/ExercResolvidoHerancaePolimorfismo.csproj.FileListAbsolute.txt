@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\bin\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.exe
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\bin\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\bin\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\bin\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\bin\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\bin\Debug\net5.0\ref\ExercResolvidoHerancaePolimorfismo.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\bin\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\obj\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\obj\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\obj\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\obj\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\obj\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\obj\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\obj\Debug\net5.0\ref\ExercResolvidoHerancaePolimorfismo.dll
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\obj\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.pdb
+C:\Users\User\OneDrive\Área de Trabalho\udemy\C#\Seção 10 Herança e polimorfismo\Herança e Polimorfismo\ExercResolvidoHerancaePolimorfismo\obj\Debug\net5.0\ExercResolvidoHerancaePolimorfismo.genruntimeconfig.cache
