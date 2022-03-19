@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SobreposiçãoPalavrasVirtu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClasseseMetodosSelados", "ClasseseMetodosSelados\ClasseseMetodosSelados.csproj", "{31187E33-1A47-414E-9BC1-D42B78C88D58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercResolvidoHerancaePolimorfismo", "ExercResolvidoHerancaePolimorfismo\ExercResolvidoHerancaePolimorfismo.csproj", "{92AB180E-8A94-4D65-8E6E-14EB133BA006}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercResolvidoHerancaePolimorfismo", "ExercResolvidoHerancaePolimorfismo\ExercResolvidoHerancaePolimorfismo.csproj", "{92AB180E-8A94-4D65-8E6E-14EB133BA006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioProposto(HerancaePolimorfismo)", "ExercicioProposto(HerancaePolimorfismo)\ExercicioProposto(HerancaePolimorfismo).csproj", "{311E0763-EE8C-4039-9F4F-AAC507789907}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioProposto(HerancaePolimorfismo)", "ExercicioProposto(HerancaePolimorfismo)\ExercicioProposto(HerancaePolimorfismo).csproj", "{311E0763-EE8C-4039-9F4F-AAC507789907}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAbstratas", "ClassesAbstratas\ClassesAbstratas.csproj", "{B8B28FB8-23FE-4254-800C-0E71ACA5F320}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{311E0763-EE8C-4039-9F4F-AAC507789907}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{311E0763-EE8C-4039-9F4F-AAC507789907}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{311E0763-EE8C-4039-9F4F-AAC507789907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8B28FB8-23FE-4254-800C-0E71ACA5F320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8B28FB8-23FE-4254-800C-0E71ACA5F320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8B28FB8-23FE-4254-800C-0E71ACA5F320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8B28FB8-23FE-4254-800C-0E71ACA5F320}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
