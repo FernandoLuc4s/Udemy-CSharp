@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaTry-Catch", "EstruturaTry-Catch\EstruturaTry-Catch.csproj", "{E1F1DF7A-0AD9-4523-9C96-934C11DE71EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1F1DF7A-0AD9-4523-9C96-934C11DE71EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F1DF7A-0AD9-4523-9C96-934C11DE71EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F1DF7A-0AD9-4523-9C96-934C11DE71EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F1DF7A-0AD9-4523-9C96-934C11DE71EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCBA95BF-83DC-4A46-A66F-AED81F46D767}
+	EndGlobalSection
+EndGlobal
