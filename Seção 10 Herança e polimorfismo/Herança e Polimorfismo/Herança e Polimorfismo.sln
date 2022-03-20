@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioProposto(HerancaeP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAbstratas", "ClassesAbstratas\ClassesAbstratas.csproj", "{B8B28FB8-23FE-4254-800C-0E71ACA5F320}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercResolvidoMetodosAbstratos", "ExercResolvidoMetodosAbstratos\ExercResolvidoMetodosAbstratos.csproj", "{10024D7F-7A49-4C2C-A4CD-CBDCF13ED627}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B8B28FB8-23FE-4254-800C-0E71ACA5F320}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8B28FB8-23FE-4254-800C-0E71ACA5F320}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8B28FB8-23FE-4254-800C-0E71ACA5F320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10024D7F-7A49-4C2C-A4CD-CBDCF13ED627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10024D7F-7A49-4C2C-A4CD-CBDCF13ED627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10024D7F-7A49-4C2C-A4CD-CBDCF13ED627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10024D7F-7A49-4C2C-A4CD-CBDCF13ED627}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
