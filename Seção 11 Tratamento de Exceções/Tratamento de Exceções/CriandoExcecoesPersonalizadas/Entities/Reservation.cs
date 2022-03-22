@@ -26,9 +26,21 @@ namespace CriandoExcecoesPersonalizadas.Entities
             return (int)duration.TotalDays; // retorna o total de dias
         }
 
-        public void UpadateDates(DateTime checkIn, DateTime checkOut) {
+        public string UpadateDates(DateTime checkIn, DateTime checkOut) {
+
+            DateTime now = DateTime.Now;
+
+            if (checkIn < now || checkOut < now)
+            {
+                return("Error in reservation: reservations dates for update must be future dates");
+            }
+            if (checkOut <= checkIn)
+            {
+                return("Check-out date must be after check-in date");
+            }
             CheckIn = checkIn;
             ChekOut = checkOut;
+            return null;
         }
 
         public override string ToString()

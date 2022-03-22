@@ -31,20 +31,14 @@ namespace CriandoExcecoesPersonalizadas
                 Console.Write("Check-out date (dd/MM/yyyy): ");
                 checkOut = DateTime.Parse(Console.ReadLine());
 
-                DateTime now = DateTime.Now;
-
-                if (checkIn < now || checkOut < now)
+                string error = reservation.UpadateDates(checkIn, checkOut);
+                if (error != null)
                 {
-                    Console.WriteLine("Error in reservation: reservations dates for update must be future dates");
+                    Console.WriteLine("Error in reservation: "+error);
                 }
-                else if (checkOut <= checkIn)
+                else
                 {
-                    Console.WriteLine("Erros in reservation: Check-out date must be after check-in date");
-                }
-                else 
-                {
-                    reservation.UpadateDates(checkIn, checkOut);
-                    Console.WriteLine("Reservation: "+reservation);
+                    Console.WriteLine("Reservation: " + reservation);
                 }
             }
             
