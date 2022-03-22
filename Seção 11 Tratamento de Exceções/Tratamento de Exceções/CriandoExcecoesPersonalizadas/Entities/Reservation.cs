@@ -1,4 +1,5 @@
 ﻿using System;
+using CriandoExcecoesPersonalizadas.Entities.Exceptions;
 
 
 namespace CriandoExcecoesPersonalizadas.Entities
@@ -13,11 +14,16 @@ namespace CriandoExcecoesPersonalizadas.Entities
         {
         }
 
-        public Reservation(int roomNumber, DateTime checkin, DateTime chekout)
+        public Reservation(int roomNumber, DateTime checkIn, DateTime chekOut)
         {
+            if (chekOut <= checkIn)
+            {
+                throw new DomainException("Check-out date must be after check-in date");
+            }
+
             RoomNumber = roomNumber;
-            CheckIn = checkin;
-            ChekOut = chekout;
+            CheckIn = checkIn;
+            ChekOut = chekOut;
         }
 
         public int Duration() 
@@ -26,21 +32,20 @@ namespace CriandoExcecoesPersonalizadas.Entities
             return (int)duration.TotalDays; // retorna o total de dias
         }
 
-        public string UpadateDates(DateTime checkIn, DateTime checkOut) {
+        public void UpadateDates(DateTime checkIn, DateTime checkOut) {
 
             DateTime now = DateTime.Now;
 
             if (checkIn < now || checkOut < now)
             {
-                return("Error in reservation: reservations dates for update must be future dates");
+                throw new DomainException("Reservation dates for update must be future dates"); // thorw = lançar a frase de exception
             }
             if (checkOut <= checkIn)
             {
-                return("Check-out date must be after check-in date");
+                throw new DomainException("Check-out date must be after check-in date");
             }
             CheckIn = checkIn;
             ChekOut = checkOut;
-            return null;
         }
 
         public override string ToString()

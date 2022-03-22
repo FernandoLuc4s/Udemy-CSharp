@@ -1,5 +1,6 @@
 ﻿using System;
 using CriandoExcecoesPersonalizadas.Entities;
+using CriandoExcecoesPersonalizadas.Entities.Exceptions;
 
 namespace CriandoExcecoesPersonalizadas
 {
@@ -7,23 +8,18 @@ namespace CriandoExcecoesPersonalizadas
     {
         static void Main(string[] args)
         {
-            Console.Write("Room number: ");
-            int number = int.Parse(Console.ReadLine());
-            Console.Write("Check-in date (dd/MM/yyyy): ");
-            DateTime checkIn = DateTime.Parse(Console.ReadLine());
-            Console.Write("Check-out date (dd/MM/yyyy): ");
-            DateTime checkOut = DateTime.Parse(Console.ReadLine());
-
-            // forma errada de verificação por conta da delegação e também dos if's e else's
-
-            if (checkOut <= checkIn)
+            try
             {
-                Console.WriteLine("Erros in reservation: Check-out date must be after check-in date");
-            }
-            else
-            {
+                Console.Write("Room number: ");
+                int number = int.Parse(Console.ReadLine());
+                Console.Write("Check-in date (dd/MM/yyyy): ");
+                DateTime checkIn = DateTime.Parse(Console.ReadLine());
+                Console.Write("Check-out date (dd/MM/yyyy): ");
+                DateTime checkOut = DateTime.Parse(Console.ReadLine());
+
                 Reservation reservation = new Reservation(number, checkIn, checkOut);
-                Console.WriteLine("Reservation: "+reservation);
+                Console.WriteLine("Reservation: " + reservation);
+
                 Console.WriteLine();
                 Console.WriteLine("Enter data to update tha reservation:");
                 Console.Write("Check-in date (dd/MM/yyyy): ");
@@ -31,17 +27,21 @@ namespace CriandoExcecoesPersonalizadas
                 Console.Write("Check-out date (dd/MM/yyyy): ");
                 checkOut = DateTime.Parse(Console.ReadLine());
 
-                string error = reservation.UpadateDates(checkIn, checkOut);
-                if (error != null)
-                {
-                    Console.WriteLine("Error in reservation: "+error);
-                }
-                else
-                {
-                    Console.WriteLine("Reservation: " + reservation);
-                }
+                reservation.UpadateDates(checkIn, checkOut);
+                Console.WriteLine("Reservation: " + reservation);
             }
-            
+            catch (DomainException e)
+            {
+                Console.WriteLine("Erros in reservation: " + e.Message); // excessões do dominio
+            }
+            catch (FormatException e)
+            {
+                Console.WriteLine("Format error: " + e.Message); // tratamento de erro de formato
+            }
+            catch (Exception e) // excessão generica para qualquer outro tipo de erro
+            {
+                Console.WriteLine("Unexpected error: "+e.Message);
+            }
         }
     }
 }
