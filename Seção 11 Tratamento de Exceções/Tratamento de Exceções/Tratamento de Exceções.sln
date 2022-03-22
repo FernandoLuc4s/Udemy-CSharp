@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaTry-Catch", "Estru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlocoFinally", "BlocoFinally\BlocoFinally.csproj", "{2C265AC6-B3D0-4A7F-AC0B-907B451E2DF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriandoExcecoesPersonalizadas", "CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas.csproj", "{7DC61765-2A75-4D0A-A142-8A8BAE933CDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CriandoExcecoesPersonalizadas", "CriandoExcecoesPersonalizadas\CriandoExcecoesPersonalizadas.csproj", "{7DC61765-2A75-4D0A-A142-8A8BAE933CDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercProposto(Excecoes)", "ExercProposto(Excecoes)\ExercProposto(Excecoes).csproj", "{8B3978CE-5C7C-49D9-BE7C-2F56CBE420FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{7DC61765-2A75-4D0A-A142-8A8BAE933CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DC61765-2A75-4D0A-A142-8A8BAE933CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DC61765-2A75-4D0A-A142-8A8BAE933CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3978CE-5C7C-49D9-BE7C-2F56CBE420FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3978CE-5C7C-49D9-BE7C-2F56CBE420FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3978CE-5C7C-49D9-BE7C-2F56CBE420FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3978CE-5C7C-49D9-BE7C-2F56CBE420FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
