@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFileInfoeIOException", "FileFileInfoeIOException\FileFileInfoeIOException.csproj", "{30317FB2-40F7-4A25-9755-44E153CD61BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30317FB2-40F7-4A25-9755-44E153CD61BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30317FB2-40F7-4A25-9755-44E153CD61BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30317FB2-40F7-4A25-9755-44E153CD61BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30317FB2-40F7-4A25-9755-44E153CD61BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEDA5BEA-C1D5-4D6D-937B-4234D66B0204}
+	EndGlobalSection
+EndGlobal
