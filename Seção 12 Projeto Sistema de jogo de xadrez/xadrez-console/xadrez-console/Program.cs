@@ -7,11 +7,7 @@ namespace xadrez_console
     {
         static void Main(string[] args)
         {
-            Position p;
-
-            p = new Position(3, 4);
-
-            Console.WriteLine("Posição : " + p);
+            GameBoard board = new GameBoard(8,8);
         }
     }
 }
