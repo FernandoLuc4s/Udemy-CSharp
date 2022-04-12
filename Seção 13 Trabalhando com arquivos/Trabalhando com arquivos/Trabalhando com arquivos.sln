@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileFileInfoeIOException", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileStreamEStreamReader", "FileStreamEStreamReader\FileStreamEStreamReader.csproj", "{4753CD81-94EC-46A4-8D63-B55B115C3D9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlocoUsing", "BlocoUsing\BlocoUsing.csproj", "{4CB4BD9D-8533-40A8-9B5F-DCFF5FEAEB68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlocoUsing", "BlocoUsing\BlocoUsing.csproj", "{4CB4BD9D-8533-40A8-9B5F-DCFF5FEAEB68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AulaStreamWriter", "StreamWriter\AulaStreamWriter.csproj", "{F3DF6439-59EB-4FF3-9FBE-10CD5AB9A8D0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{4CB4BD9D-8533-40A8-9B5F-DCFF5FEAEB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CB4BD9D-8533-40A8-9B5F-DCFF5FEAEB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CB4BD9D-8533-40A8-9B5F-DCFF5FEAEB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3DF6439-59EB-4FF3-9FBE-10CD5AB9A8D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3DF6439-59EB-4FF3-9FBE-10CD5AB9A8D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3DF6439-59EB-4FF3-9FBE-10CD5AB9A8D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3DF6439-59EB-4FF3-9FBE-10CD5AB9A8D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
